@@ -1,0 +1,2 @@
+C:\Users\Andy\Documents\Projects\SlidingTab\SlidingTab\bin\Debug\SlidingTab.dll
+C:\Users\Andy\Documents\Projects\SlidingTab\SlidingTab\bin\Debug\Mono.Android.Support.v4.dll
